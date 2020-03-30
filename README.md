@@ -1,2 +1,2 @@
 # Reservations
-This bot makes reservations for game spots at anytime you will like too. A
+This bot makes reservations for game spots at anytime you will like too. 
